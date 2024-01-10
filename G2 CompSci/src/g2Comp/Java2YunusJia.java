@@ -5,7 +5,7 @@ import java.util.Random;
 public class Java2YunusJia {
   public static void main(String[] args) {
 	  //task1
-     /* System.out.println ("enter something");
+      System.out.println ("enter something");
 	  Scanner bdscans=new Scanner(System.in);
 	  String a=bdscans.next();
 	  System.out.println("hi"+a);
@@ -49,7 +49,7 @@ public class Java2YunusJia {
 	        double num2=g.nextDouble();
 	        double asn4=Math.round(num2);
 	        System.out.println(asn4);
-	        */
+	        
 	     //RANDOM
 	  for(int i=0;i<=2;i++) {
 	        System.out.println( Math.random()*10);
